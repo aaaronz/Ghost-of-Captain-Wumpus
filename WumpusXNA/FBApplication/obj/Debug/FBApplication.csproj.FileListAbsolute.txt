@@ -1,0 +1,72 @@
+J:\FBApplication\FBApplication\bin\Debug\FBApplication.exe.config
+J:\FBApplication\FBApplication\obj\Debug\FBApplication.csprojResolveAssemblyReference.cache
+J:\FBApplication\FBApplication\obj\Debug\FBApplication.Form1.resources
+J:\FBApplication\FBApplication\obj\Debug\FBApplication.Form2.resources
+J:\FBApplication\FBApplication\obj\Debug\FBApplication.MDIParent1.resources
+J:\FBApplication\FBApplication\obj\Debug\FBApplication.Properties.Resources.resources
+J:\FBApplication\FBApplication\obj\Debug\FBApplication.csproj.GenerateResource.Cache
+E:\FBApplication\FBApplication\obj\Debug\ResolveAssemblyReference.cache
+E:\FBApplication\FBApplication\obj\Debug\FBApplication.Form1.resources
+E:\FBApplication\FBApplication\obj\Debug\FBApplication.Form2.resources
+E:\FBApplication\FBApplication\obj\Debug\FBApplication.MDIParent1.resources
+E:\FBApplication\FBApplication\obj\Debug\FBApplication.Properties.Resources.resources
+E:\FBApplication\FBApplication\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\FBApplication\FBApplication\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\FBApplication\FBApplication\bin\Debug\FBApplication.exe.config
+E:\FBApplication\FBApplication\bin\Debug\FBApplication.exe
+E:\FBApplication\FBApplication\bin\Debug\FBApplication.pdb
+E:\FBApplication\FBApplication\bin\Debug\Facebook.dll
+E:\FBApplication\FBApplication\bin\Debug\Facebook.xml
+E:\FBApplication\FBApplication\obj\Debug\FBApplication.exe
+E:\FBApplication\FBApplication\obj\Debug\FBApplication.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\FacebookTest2\FBApplication\FBApplication\bin\Debug\FBApplication.exe.config
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\FacebookTest2\FBApplication\FBApplication\obj\Debug\FBApplication.exe
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\FacebookTest2\FBApplication\FBApplication\obj\Debug\FBApplication.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\FacebookTest2\FBApplication\FBApplication\bin\Debug\FBApplication.exe
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\FacebookTest2\FBApplication\FBApplication\bin\Debug\FBApplication.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\FacebookTest2\FBApplication\FBApplication\bin\Debug\Facebook.dll
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\FacebookTest2\FBApplication\FBApplication\bin\Debug\Facebook.xml
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\FacebookTest2\FBApplication\FBApplication\obj\Debug\FBApplication.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\FacebookTest2\FBApplication\FBApplication\obj\Debug\FBApplication.Form1.resources
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\FacebookTest2\FBApplication\FBApplication\obj\Debug\FBApplication.Form2.resources
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\FacebookTest2\FBApplication\FBApplication\obj\Debug\FBApplication.MDIParent1.resources
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\FacebookTest2\FBApplication\FBApplication\obj\Debug\FBApplication.Properties.Resources.resources
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\FacebookTest2\FBApplication\FBApplication\obj\Debug\FBApplication.csproj.GenerateResource.Cache
+C:\Users\Othman\Desktop\FBApplication\FBApplication\bin\Debug\FBApplication.exe.config
+C:\Users\Othman\Desktop\FBApplication\FBApplication\obj\Debug\FBApplication.exe
+C:\Users\Othman\Desktop\FBApplication\FBApplication\obj\Debug\FBApplication.pdb
+C:\Users\Othman\Desktop\FBApplication\FBApplication\bin\Debug\FBApplication.exe
+C:\Users\Othman\Desktop\FBApplication\FBApplication\bin\Debug\FBApplication.pdb
+C:\Users\Othman\Desktop\FBApplication\FBApplication\bin\Debug\Facebook.dll
+C:\Users\Othman\Desktop\FBApplication\FBApplication\bin\Debug\Facebook.xml
+C:\Users\Othman\Desktop\FBApplication\FBApplication\obj\Debug\FBApplication.csprojResolveAssemblyReference.cache
+C:\Users\Othman\Desktop\FBApplication\FBApplication\obj\Debug\FBApplication.Form1.resources
+C:\Users\Othman\Desktop\FBApplication\FBApplication\obj\Debug\FBApplication.Form2.resources
+C:\Users\Othman\Desktop\FBApplication\FBApplication\obj\Debug\FBApplication.MDIParent1.resources
+C:\Users\Othman\Desktop\FBApplication\FBApplication\obj\Debug\FBApplication.Properties.Resources.resources
+C:\Users\Othman\Desktop\FBApplication\FBApplication\obj\Debug\FBApplication.csproj.GenerateResource.Cache
+C:\Users\Othman\Desktop\WORKING FACEBOOK\FBApplication\bin\Debug\FBApplication.exe.config
+C:\Users\Othman\Desktop\WORKING FACEBOOK\FBApplication\obj\Debug\FBApplication.exe
+C:\Users\Othman\Desktop\WORKING FACEBOOK\FBApplication\obj\Debug\FBApplication.pdb
+C:\Users\Othman\Desktop\WORKING FACEBOOK\FBApplication\bin\Debug\FBApplication.exe
+C:\Users\Othman\Desktop\WORKING FACEBOOK\FBApplication\bin\Debug\FBApplication.pdb
+C:\Users\Othman\Desktop\WORKING FACEBOOK\FBApplication\bin\Debug\Facebook.dll
+C:\Users\Othman\Desktop\WORKING FACEBOOK\FBApplication\bin\Debug\Facebook.xml
+C:\Users\Othman\Desktop\WORKING FACEBOOK\FBApplication\obj\Debug\FBApplication.csprojResolveAssemblyReference.cache
+C:\Users\Othman\Desktop\WORKING FACEBOOK\FBApplication\obj\Debug\FBApplication.Form1.resources
+C:\Users\Othman\Desktop\WORKING FACEBOOK\FBApplication\obj\Debug\FBApplication.Form2.resources
+C:\Users\Othman\Desktop\WORKING FACEBOOK\FBApplication\obj\Debug\FBApplication.MDIParent1.resources
+C:\Users\Othman\Desktop\WORKING FACEBOOK\FBApplication\obj\Debug\FBApplication.Properties.Resources.resources
+C:\Users\Othman\Desktop\WORKING FACEBOOK\FBApplication\obj\Debug\FBApplication.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Temp\WumpusXNA\FBApplication\bin\Debug\FBApplication.exe.config
+C:\Users\admin\Documents\Temp\WumpusXNA\FBApplication\obj\Debug\FBApplication.exe
+C:\Users\admin\Documents\Temp\WumpusXNA\FBApplication\obj\Debug\FBApplication.pdb
+C:\Users\admin\Documents\Temp\WumpusXNA\FBApplication\bin\Debug\FBApplication.exe
+C:\Users\admin\Documents\Temp\WumpusXNA\FBApplication\bin\Debug\FBApplication.pdb
+C:\Users\admin\Documents\Temp\WumpusXNA\FBApplication\bin\Debug\Facebook.xml
+C:\Users\admin\Documents\Temp\WumpusXNA\FBApplication\obj\Debug\FBApplication.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Temp\WumpusXNA\FBApplication\obj\Debug\FBApplication.Form1.resources
+C:\Users\admin\Documents\Temp\WumpusXNA\FBApplication\obj\Debug\FBApplication.Form2.resources
+C:\Users\admin\Documents\Temp\WumpusXNA\FBApplication\obj\Debug\FBApplication.MDIParent1.resources
+C:\Users\admin\Documents\Temp\WumpusXNA\FBApplication\obj\Debug\FBApplication.Properties.Resources.resources
+C:\Users\admin\Documents\Temp\WumpusXNA\FBApplication\obj\Debug\FBApplication.csproj.GenerateResource.Cache

@@ -1,0 +1,134 @@
+c:\users\admin\documents\visual studio 2013\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\WumpusXNA.exe
+c:\users\admin\documents\visual studio 2013\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\WumpusXNA.pdb
+c:\users\admin\documents\visual studio 2013\Projects\WumpusXNA\WumpusXNA\WumpusXNA\obj\x86\Debug\WumpusXNA.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\WumpusXNA\WumpusXNA\WumpusXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\admin\documents\visual studio 2013\Projects\WumpusXNA\WumpusXNA\WumpusXNA\obj\x86\Debug\WumpusXNA.exe
+c:\users\admin\documents\visual studio 2013\Projects\WumpusXNA\WumpusXNA\WumpusXNA\obj\x86\Debug\WumpusXNA.pdb
+C:\Users\admin\documents\visual studio 2013\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\door.xnb
+C:\Users\admin\documents\visual studio 2013\Projects\WumpusXNA\WumpusXNA\WumpusXNA\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\admin\documents\visual studio 2013\Projects\WumpusXNA\WumpusXNA\WumpusXNA\obj\x86\Debug\WumpusXNA.csproj.ResolveComReference.cache
+C:\Users\admin\documents\visual studio 2013\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\diver.xnb
+C:\Users\admin\documents\visual studio 2013\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\down.xnb
+C:\Users\admin\documents\visual studio 2013\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\left.xnb
+C:\Users\admin\documents\visual studio 2013\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\right.xnb
+C:\Users\admin\documents\visual studio 2013\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\up.xnb
+C:\Users\admin\documents\visual studio 2013\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\wood.xnb
+C:\Users\admin\documents\visual studio 2013\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\background.xnb
+C:\Users\admin\documents\visual studio 2013\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\WumpusFont.xnb
+C:\Users\admin\documents\visual studio 2013\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\coin.xnb
+C:\Users\admin\documents\visual studio 2013\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\pirate.xnb
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\diver.xnb
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\down.xnb
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\left.xnb
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\right.xnb
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\up.xnb
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\wood.xnb
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\background.xnb
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\coin.xnb
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\pirate.xnb
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\door.xnb
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\WumpusFont.xnb
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\WumpusXNA.exe
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\WumpusXNA.pdb
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\obj\x86\Debug\WumpusXNA.csproj.ResolveComReference.cache
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\obj\x86\Debug\WumpusXNA.exe
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\obj\x86\Debug\WumpusXNA.pdb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\WumpusXNA.exe
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\WumpusXNA.pdb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\obj\x86\Debug\WumpusXNA.csproj.ResolveComReference.cache
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\obj\x86\Debug\WumpusXNA.exe
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\obj\x86\Debug\WumpusXNA.pdb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\diver.xnb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\down.xnb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\left.xnb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\right.xnb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\up.xnb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\wood.xnb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\background.xnb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\coin.xnb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\pirate.xnb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\door.xnb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\WumpusFont.xnb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\harpoonDown.xnb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\harpoonLeft.xnb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\harpoonRight.xnb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\harpoonUp.xnb
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\diver.xnb
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\down.xnb
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\left.xnb
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\right.xnb
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\up.xnb
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\wood.xnb
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\background.xnb
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\coin.xnb
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\pirate.xnb
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\door.xnb
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\harpoonDown.xnb
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\harpoonLeft.xnb
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\harpoonRight.xnb
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\harpoonUp.xnb
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\WumpusFont.xnb
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\WumpusXNA.exe
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\WumpusXNA.pdb
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\obj\x86\Debug\WumpusXNA.csproj.ResolveComReference.cache
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\obj\x86\Debug\WumpusXNA.exe
+C:\Users\s-anli\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\obj\x86\Debug\WumpusXNA.pdb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\diver.xnb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\down.xnb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\left.xnb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\right.xnb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\up.xnb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\wood.xnb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\background.xnb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\coin.xnb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\pirate.xnb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\door.xnb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\WumpusFont.xnb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\WumpusXNA.exe
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\WumpusXNA.pdb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\obj\x86\Debug\WumpusXNA.csprojResolveAssemblyReference.cache
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\obj\x86\Debug\WumpusXNA.csproj.ResolveComReference.cache
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\obj\x86\Debug\WumpusXNA.exe
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\obj\x86\Debug\WumpusXNA.pdb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\ghost.xnb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\harpoonDown.xnb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\harpoonLeft.xnb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\harpoonRight.xnb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\harpoonUp.xnb
+C:\Users\Andrew Li\Documents\Visual Studio 2010\Projects\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\Captain.xnb
+C:\Users\admin\Documents\Temp\WumpusXNA\WumpusXNA\obj\x86\Debug\WumpusXNA.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Temp\WumpusXNA\WumpusXNA\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\admin\Documents\Temp\WumpusXNA\WumpusXNA\obj\x86\Debug\WumpusXNA.csproj.ResolveComReference.cache
+C:\Users\admin\Documents\Temp\WumpusXNA\WumpusXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\admin\Documents\Temp\WumpusXNA\WumpusXNA\obj\x86\Debug\WumpusXNA.exe
+C:\Users\admin\Documents\Temp\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\diver.xnb
+C:\Users\admin\Documents\Temp\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\down.xnb
+C:\Users\admin\Documents\Temp\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\left.xnb
+C:\Users\admin\Documents\Temp\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\right.xnb
+C:\Users\admin\Documents\Temp\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\up.xnb
+C:\Users\admin\Documents\Temp\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\wood.xnb
+C:\Users\admin\Documents\Temp\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\background.xnb
+C:\Users\admin\Documents\Temp\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\coin.xnb
+C:\Users\admin\Documents\Temp\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\pirate.xnb
+C:\Users\admin\Documents\Temp\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\door.xnb
+C:\Users\admin\Documents\Temp\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\ghost.xnb
+C:\Users\admin\Documents\Temp\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\harpoonDown.xnb
+C:\Users\admin\Documents\Temp\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\harpoonLeft.xnb
+C:\Users\admin\Documents\Temp\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\harpoonRight.xnb
+C:\Users\admin\Documents\Temp\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\harpoonUp.xnb
+C:\Users\admin\Documents\Temp\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\Captain.xnb
+C:\Users\admin\Documents\Temp\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\WumpusFont.xnb
+C:\Users\admin\Documents\Temp\WumpusXNA\WumpusXNA\bin\x86\Debug\WumpusXNA.exe
+C:\Users\admin\Documents\Temp\WumpusXNA\WumpusXNA\bin\x86\Debug\WumpusXNA.pdb
+C:\Users\admin\Documents\Temp\WumpusXNA\WumpusXNA\obj\x86\Debug\WumpusXNA.pdb
+C:\Users\admin\Documents\Temp\WumpusXNA\WumpusXNA\bin\x86\Debug\Content\button.xnb
